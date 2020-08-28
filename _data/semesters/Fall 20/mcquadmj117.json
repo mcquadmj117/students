@@ -1,0 +1,15 @@
+{
+       "emoji": ":no_mouth:",
+       "role": "Student",
+       "introduction": "Hello I am Michael McQuade and I love video games and Source Control",
+       "achievements": [
+           "I have recieved the Cincinnatus Scholarship from UC",
+           "I was on the Deans List of UC",
+           "I got a great performance review from my internship",
+           "I beat the hard mode of star fox 64",
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-mcquadmj117/",
+           "linkedin": "www.linkedin.com/in/michael-mcquade-47495b171",
+       }
+   }
